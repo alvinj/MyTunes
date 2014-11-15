@@ -6,7 +6,9 @@ audio files that contain "binaural beats" while I play songs from iTunes, Spotif
 Pandora, or some other source at the same time.
 
 The code here is crap; I wrote it a long time ago when I only had a few free hours
-per week (or month) to write any code, so it's all kind of cobbled together.
+per week (or month) to write any code, so it's all kind of cobbled together. The only
+thing I did today was to update the build process to (a) use SBT and (b) work with
+Java 7 (and newer).
 
 That being said, if you want to play a sound file using Java, Scala, Groovy, or
 some other JVM-based language, I hope something in here is helpful.
